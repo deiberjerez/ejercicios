@@ -1,0 +1,6 @@
+/*let ladoA = Number(prompt("cuantos cm tiene el lado A"))
+let ladoB = Number(prompt("cuantos cm tiene el lado B"))
+
+resultado = ladoA * ladoB
+
+console.log("el area del cuadrado es " + resultado);*/

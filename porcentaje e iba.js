@@ -1,9 +1,8 @@
-/*let precio_sub_total = Number(prompt("ingrese el precio del producto"));
-let porcentaje = Number(prompt("ingrese el porcentaje del descuento"));
+/*let priceOfArticle = prompt("ingrese el valor del articulo");
+let priceDiscount = parseFloat(priceOfArticle) * 0.2;
 
-iva = 0.19;
+priceOfArticle = priceOfArticle - priceDiscount;
 
-precio_sub_total2 = precio_sub_total;
+let pricewithiva = priceOfArticle * 1.15;
 
-resultado = precio_sub_total - ((precio_sub_total2 * porcentaje) / 100) * iva;
-alert("el resultado es " + resultado);*/
+alert("el precio total es: " + pricewithiva);*/

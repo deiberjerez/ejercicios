@@ -2,4 +2,4 @@
 let año_actual = 2023;
 
 resultado = año_actual - añonacimiento;
-alert("el resultado es " + resultado);*/
+alert("Su edad actual es: " + resultado);*/
